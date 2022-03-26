@@ -1,6 +1,3 @@
-### Hi there, I'm Jahid Aneek 👋
-
-## 
 
   {
   "job":      "Developer",
