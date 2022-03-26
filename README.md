@@ -1,15 +1,16 @@
-[
- {
-  "job":      "Developer",
-  "birthday": "1995-10-01",
-  "country":  "Bangladesh",
-  "city":     "Dhaka",
-  "stack":    ["PHP","Laravel", "MySQL", "HTML", "CSS", "JS", "ReactJS", "jQuery","Bootstrap",Ajax","Bash", "..."],
-  "interest": ["Clean Code", "Testing", "Static Code Analysis", "Linux", "..."], 
-  "quote":    "There is nothing good unless you do it. - Erich Kästner"
-  "extra":     "I love to travel"
+{
+   "properties": 
+      {
+       "name": "Martin",
+      "bornOn": "1957-01-05"
+      },
+   "links": [
+      {
+       "rel": "bornIn",
+      "href": "http://www.scotland.org#"
+     }
+  ]
  }
-]
 
 
 
