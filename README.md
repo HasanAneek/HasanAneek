@@ -1,9 +1,14 @@
 
-
-
 {
- "self": "http://martin-nally.name#",
- "firstName": "Martin"
+ "isA": "Person",
+ "name": "Martin",
+ "eyeColor": 
+    {
+     "isA": "RGBColor",
+     "red": 0,
+     "green": 0,
+     "blue": 155
+    }
 }
 
 
