@@ -1,4 +1,5 @@
-{
+[
+ {
   "job":      "Developer",
   "birthday": "1995-10-01",
   "country":  "Bangladesh",
@@ -6,8 +7,9 @@
   "stack":    ["PHP","Laravel", "MySQL", "HTML", "CSS", "JS", "ReactJS", "jQuery","Bootstrap",Ajax","Bash", "..."],
   "interest": ["Clean Code", "Testing", "Static Code Analysis", "Linux", "..."], 
   "quote":    "There is nothing good unless you do it. - Erich Kästner"
-  "exta":     "I love to travel"
-}
+  "extra":     "I love to travel"
+ }
+]
 
 
 
