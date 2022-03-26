@@ -1,5 +1,4 @@
-
-  {
+{
   "job":      "Developer",
   "birthday": "1995-10-01",
   "country":  "Bangladesh",
@@ -9,6 +8,8 @@
   "quote":    "There is nothing good unless you do it. - Erich Kästner"
   "exta":     "I love to travel"
 }
+
+
 
 
 
