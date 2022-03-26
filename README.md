@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Jahid Aneek 👋
 
-<!--
-**HasanAneek/HasanAneek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 
 
-Here are some ideas to get you started:
+  {
+  "job":      "Developer",
+  "birthday": "1995-10-01",
+  "country":  "Bangladesh",
+  "city":     "Dhaka",
+  "stack":    ["PHP","Laravel", "MySQL", "HTML", "CSS", "JS", "ReactJS", "jQuery","Bootstrap",Ajax","Bash", "..."],
+  "interest": ["Clean Code", "Testing", "Static Code Analysis", "Linux", "..."], 
+  "quote":    "There is nothing good unless you do it. - Erich Kästner"
+  "exta":     "I love to travel"
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HasanAneek)](https://github.com/anuraghazra/github-readme-stats)
