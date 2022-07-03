@@ -10,7 +10,7 @@
   &quot;exta&quot;:     &quot;Love to travel;
 }"><pre>{
   <span class="pl-ent">"job"</span>:      <span class="pl-s"><span class="pl-pds">"</span>Developer<span class="pl-pds">"</span></span>,
-  <span class="pl-ent">"birthday"</span>: <span class="pl-s"><span class="pl-pds">"</span>1995-10-01<span class="pl-pds">"</span></span>,
+  <span class="pl-ent">"birthday"</span>: <span class="pl-s"><span class="pl-pds">"</span>October-01<span class="pl-pds">"</span></span>,
   <span class="pl-ent">"country"</span>:  <span class="pl-s"><span class="pl-pds">"</span>Bangladesh<span class="pl-pds">"</span></span>,
   <span class="pl-ent">"city"</span>:     <span class="pl-s"><span class="pl-pds">"</span>Dhaka<span class="pl-pds">"</span></span>,
   <span class="pl-ent">"stack"</span>:    [<span class="pl-s"><span class="pl-pds">"</span>PHP<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>Javascript<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>AlpineJS<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>MySQL<span class="pl-pds">"</span></span>,  <span class="pl-s"><span class="pl-pds">"</span>Laravel<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>Livewire<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>jQuery<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>Bash<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>...<span class="pl-pds">"</span></span>],
